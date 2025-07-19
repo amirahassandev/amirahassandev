@@ -15,7 +15,7 @@
 - 👨‍💻 Driven by passion, I specialize in Computer Vision and Embedded Systems, with a focus on integrating computer vision with embedded technologies.
 - 💬 Ask me about my experience with Embedded Systems, computer vision, or anything related to back end.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Explore my work! Check out my backend development portfolio (https://amirahassandev.github.io/Portfolio/), my machine learning portfolio (https://amirahassandev.github.io/Portfolio-machine/), and my embedded systems portfolio (https://amirahassandev.github.io/Portfolio-embedded/) to see the projects I’ve worked on.
+- 👨‍💻 Explore my work! Check out my backend development portfolio (https://amirahassandev.github.io/portfolio-backend/), my machine learning portfolio (https://amirahassandev.github.io/portfolio-machine/), and my embedded systems portfolio (https://amirahassandev.github.io/portfolio-embedded/) to see the projects I’ve worked on.
 
 
 ### Connect with Me :
