@@ -14,7 +14,7 @@
 ---
 
 - 🏢 I'm a **Software Engineer**.
-- 👨‍💻 Passionate about **Machine Learning** and **Embedded Systems**, with a focus on merging them to build intelligent hardware-software solutions.
+- 👨‍💻 Passionate about **ML** & **ES** & **Backend**, with a focus on merging them to build intelligent hardware-software solutions.
 - 💬 Ask me about **Embedded Systems**, **ML**, or anything related to **Back-End Development**.
 - ⚡ **Fun Fact**: I’m a coffee lover! A perfect day starts and ends with coffee ☕.
 - 🔄 **Account Migration Notice**: I’ve recently moved to this GitHub account [**@amirahassandev**](https://github.com/amirahassandev) from [@AmiraHassan2003](https://github.com/AmiraHassan2003) due to authentication issues. All current and future projects will be updated here.
