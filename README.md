@@ -7,15 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=440&lines=Software+Engineer;Back+End+%2F+Machine+Learning+%2F+Embedded+Developer;Always+Learning+Something+New+%F0%9F%8C%8A">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&width=440&lines=Software+Engineer;Back+End+%2F+M+L+%2F+E+S;Always+Learning+Something+New+%F0%9F%8C%8A">
   </a>
 </p>
 
 ---
 
 - 🏢 I'm a **Software Engineer**.
-- 👨‍💻 Passionate about **ML** & **ES** & **Backend**, with a focus on merging them to build intelligent hardware-software solutions.
-- 💬 Ask me about **Embedded Systems**, **ML**, or anything related to **Back-End Development**.
+- 👨‍💻 Passionate about **Machine Learning** & **Embedded Systems** & **Backend Developer**, with a focus on merging them to build intelligent hardware-software solutions.
 - ⚡ **Fun Fact**: I’m a coffee lover! A perfect day starts and ends with coffee ☕.
 - 🔄 **Account Migration Notice**: I’ve recently moved to this GitHub account [**@amirahassandev**](https://github.com/amirahassandev) from [@AmiraHassan2003](https://github.com/AmiraHassan2003) due to authentication issues. All current and future projects will be updated here.
 
